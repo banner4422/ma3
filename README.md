@@ -5,9 +5,9 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Simon Lindholm Pedersen | s154632     |
+| Christian Krogh Nielsen | s137071     |
+| Johannes Lind           | s146276     |
 
 ***
 
